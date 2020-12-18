@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello Docker !
+          Hello Docker ! I have just integrated you with CI and Elastic Beanstalk
         </p>
         <a
           className="App-link"
