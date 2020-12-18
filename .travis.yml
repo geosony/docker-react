@@ -14,8 +14,8 @@ script:
 deploy:
     provider: elasticbeanstalk
     region: "us-west-2"
-    app: "first-deploy"
-    env: "FirstDeploy-env"
+    app: "first-deploy-v2"
+    env: "FirstDeployV2-env"
     bucket_name: "elasticbeanstalk-us-west-2-304191806274"
     bucket_path: "first-deploy"
     on:
